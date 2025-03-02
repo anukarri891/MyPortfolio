@@ -33,8 +33,7 @@ function App() {
                 <img
                   src="https://drive.google.com/uc?export=view&id=1M-Od0Y0OPAZ5F1arc-Q_7FYx_9xr6BPo"
                   alt="Profile"
-                  className="relative rounded-full w-64 h-64 object-cover border-4 border-white/30 shadow-2xl"
-                />
+                  className="relative rounded-full w-64 h-64 object-cover border-4 border-white/30 shadow-2xl"/>
               </div>
             </div>
           </div>
