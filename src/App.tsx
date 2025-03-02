@@ -31,9 +31,10 @@ function App() {
               <div className="relative animate-float">
                 <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full blur-2xl opacity-30"></div>
                 <img
-                  src="/Profile.jpg"
+                  src="https://drive.google.com/uc?export=view&id=1M-Od0Y0OPAZ5F1arc-Q_7FYx_9xr6BPo"
                   alt="Profile"
-                  className="relative rounded-full w-64 h-64 object-cover border-4 border-white/30 shadow-2xl"/>
+                  className="relative rounded-full w-64 h-64 object-cover border-4 border-white/30 shadow-2xl"
+                />
               </div>
             </div>
           </div>
