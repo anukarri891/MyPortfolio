@@ -9,8 +9,8 @@ function App() {
           <div className="flex flex-col md:flex-row items-center justify-between relative z-10">
             <div className="md:w-1/2 mb-8 md:mb-0">
               <h1 className="text-5xl md:text-6xl font-bold mb-4 leading-tight">
-                Hi, I'm Karri Naga Anusha CSM
-                <span className="block text-2xl md:text-3xl text-blue-200 mt-2">Software Developer | AI & ML Enthusiast</span>
+                Hi, I'm Karri Naga Anusha
+                <span className="block text-2xl md:text-3xl text-blue-200 mt-2">Software Developer | AI & ML Enthusiast | Data Analyst</span>
               </h1>
               <p className="text-xl mb-8 text-blue-100">
                 Passionate about software development, AI, and problem-solving. Exploring innovative solutions to make an impact.
@@ -31,7 +31,7 @@ function App() {
               <div className="relative animate-float">
                 <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full blur-2xl opacity-30"></div>
                 <img
-                  src="/Profile.jpg"
+                  src="https://drive.google.com/file/d/1M-Od0Y0OPAZ5F1arc-Q_7FYx_9xr6BPo/view?usp=sharing"
                   alt="Profile"
                   className="relative rounded-full w-64 h-64 object-cover border-4 border-white/30 shadow-2xl" />
               </div>
@@ -210,13 +210,13 @@ function App() {
           <h2 className="text-4xl font-bold text-center mb-6">Achievements</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
 
-            {/* Coordinator Role */}
+            {/* Academic Excellence */}
             <div className="p-6 bg-white rounded-2xl shadow-xl transform hover:-translate-y-1 transition-transform duration-300">
               <h3 className="text-2xl font-semibold mb-4 flex items-center">
-                <Wrench className="text-blue-600 mr-2" /> Coordinator, KIET
+                <Wrench className="text-blue-600 mr-2" />Academic Excellence, KIET
               </h3>
               <p className="text-gray-700">
-                Coordinated Abhiyaan activities for over 100 students, showcasing strong leadership, organizational skills, and effective event management.
+                Secured a Top 5 Rank in academics among students across the campus, demonstrating consistent excellence in coursework and technical proficiency.
               </p>
             </div>
 
