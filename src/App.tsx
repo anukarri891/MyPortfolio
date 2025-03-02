@@ -9,7 +9,7 @@ function App() {
           <div className="flex flex-col md:flex-row items-center justify-between relative z-10">
             <div className="md:w-1/2 mb-8 md:mb-0">
               <h1 className="text-5xl md:text-6xl font-bold mb-4 leading-tight">
-                Hi, I'm Karri Naga Anusha
+                Hi, I'm Karri Naga Anusha CSM
                 <span className="block text-2xl md:text-3xl text-blue-200 mt-2">Software Developer | AI & ML Enthusiast</span>
               </h1>
               <p className="text-xl mb-8 text-blue-100">
