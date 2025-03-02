@@ -29,16 +29,17 @@ function App() {
             </div>
             <div className="md:w-1/3">
               <div className="relative animate-float">
-                <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full blur-2xl opacity-30"></div>
-                <img
-                  src="https://drive.google.com/uc?export=view&id=1M-Od0Y0OPAZ5F1arc-Q_7FYx_9xr6BPo"
-                  alt="Profile"
-                  className="relative rounded-full w-64 h-64 object-cover border-4 border-white/30 shadow-2xl"/>
+                <iframe
+                  src="https://drive.google.com/file/d/1M-Od0Y0OPAZ5F1arc-Q_7FYx_9xr6BPo/preview"
+                  width="250"
+                  height="250"
+                  className="rounded-full border-4 border-white/30 shadow-2xl"
+                ></iframe>
+                </div>
               </div>
             </div>
           </div>
-        </div>
-        <div className="absolute bottom-0 left-0 right-0 h-16 bg-gradient-to-b from-transparent to-gray-50"></div>
+          <div className="absolute bottom-0 left-0 right-0 h-16 bg-gradient-to-b from-transparent to-gray-50"></div>
       </header>
 
       {/* About Section */}
