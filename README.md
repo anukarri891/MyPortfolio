@@ -17,10 +17,6 @@ Deployment: Vercel / Netlify / GitHub Pages
 📂 Projects Showcased
 
 
-Machine Translation using Keras
-
-Developed a PDF translation tool that allows users to upload a document, select words for meaning, or translate full text.
-Integrated PDF extraction, translation APIs, and an interactive UI for seamless experience.
 
 Fake News Detection
 
